@@ -31,3 +31,7 @@ const team = [
   },
 ];
 
+/* milestone 1: stampa su console i valori delle key di ogni oggetto */
+for(i = 0; i < team.length; i++){
+  console.log(team[i]);
+}
